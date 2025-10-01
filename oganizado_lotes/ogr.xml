@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugins>
   <pyqgis_plugin name="OrganizadorDeLotes" version="1.0">
-    <file_name>OrganizadorDeLotes.zip</file_name>
-    <download_url>https://seuusuario.github.io/meu_repositorio/OrganizadorDeLotes.zip</download_url>
-    <homepage>https://github.com/seuusuario/OrganizadorDeLotes</homepage>
+    <file_name>oganizado_lotes</file_name>
+    <download_url>https://caioviny.github.io/Organiza-Lotes/oganizado_lotes</download_url>
+    <homepage>https://caioviny.github.io/Organiza-Lotes</homepage>
     <author>Seu Nome</author>
     <email>seu@email.com</email>
     <description>Organiza lotes dentro de quadras automaticamente e padroniza o cadastro.</description>
@@ -15,3 +15,4 @@
     <deprecated>False</deprecated>
   </pyqgis_plugin>
 </plugins>
+
