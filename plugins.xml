@@ -2,7 +2,7 @@
 <plugins>
   <pyqgis_plugin name="OrganizadorDeLotes" version="1.0">
     <file_name>oganizado_lotes</file_name>
-    <download_url>https://caioviny.github.io/Organiza-Lotes/oganizado_lotes</download_url>
+    <download_url>https://caioviny.github.io/Organiza-Lotes/org.xml</download_url>
     <homepage>https://caioviny.github.io/Organiza-Lotes</homepage>
     <author>Seu Nome</author>
     <email>seu@email.com</email>
@@ -15,4 +15,5 @@
     <deprecated>False</deprecated>
   </pyqgis_plugin>
 </plugins>
+
 
