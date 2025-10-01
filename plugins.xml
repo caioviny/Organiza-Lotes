@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugins>
   <pyqgis_plugin name="OrganizadorDeLotes" version="1.0">
-    <file_name>oganizado_lotes</file_name>
-    <download_url>https://caioviny.github.io/Organiza-Lotes/org.xml</download_url>
+    <file_name>OrganizadorDeLotes.zip</file_name>
+    <download_url>https://caioviny.github.io/Organiza-Lotes/OrganizadorDeLotes.zip</download_url>
     <homepage>https://caioviny.github.io/Organiza-Lotes</homepage>
     <author>Seu Nome</author>
     <email>seu@email.com</email>
@@ -13,7 +13,6 @@
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
+    <tags>cadastro, lotes, automação, qgis</tags>
   </pyqgis_plugin>
 </plugins>
-
-
